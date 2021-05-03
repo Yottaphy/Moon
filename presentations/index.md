@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: projects
 title: Presentations and Posters 
 excerpt: "Presentations and Posters Related to the MARA-LEB Project"
 comments: false
