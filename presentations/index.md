@@ -9,4 +9,7 @@ comments: false
 
 ## Posters
 
+- Finnish Physics Days 2021
+    ![Phys Days 2021](/presentations/PhysDays2021.pdf)
+
 ## Presentations
