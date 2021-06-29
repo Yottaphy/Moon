@@ -14,6 +14,6 @@ comments: false
 
 ## Presentations
 - The MARA-LEB Vacuum System
-    ![]
+    ![MARA-LEB Vacuum](/presentations/MARALEB_Vacuum.pdf)
 - Status Report on the MARA-LEB facility June 2021.
     ![LEB Status June 21](/presebtations/LEBStatusJune2021.pdf)
